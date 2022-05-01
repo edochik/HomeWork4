@@ -22,4 +22,6 @@ void PrintArr(int[] arr)
     }
 }
 
-PrintArr(CreateArr(8));
+int n = 8;
+
+PrintArr(CreateArr(n));
